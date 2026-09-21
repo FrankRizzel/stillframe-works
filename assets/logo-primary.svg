@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 150" role="img" aria-labelledby="title desc">
+  <title id="title">Stillframe Works</title><desc id="desc">A framed pause mark beside the Stillframe Works wordmark.</desc>
+  <rect width="640" height="150" rx="18" fill="#171815"/>
+  <g transform="translate(32 27)" fill="none" stroke="#E9A33B" stroke-width="6">
+    <rect x="3" y="3" width="90" height="90" rx="5"/>
+    <path d="M26 27v42M70 27v42"/>
+  </g>
+  <text x="148" y="70" fill="#F3EFE7" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" letter-spacing="-1.5">STILLFRAME</text>
+  <text x="151" y="108" fill="#B8B6AF" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600" letter-spacing="9">WORKS</text>
+</svg>
